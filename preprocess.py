@@ -22,3 +22,7 @@ for label in labels:
 training_data = data[:int(0.7*len(data))]
 validation_data = data[int(0.7*len(data)):int(0.85*len(data))]
 test_data = data[int(0.85*len(data)):]
+
+print(len(training_data))
+print(len(validation_data))
+print(len(test_data))
