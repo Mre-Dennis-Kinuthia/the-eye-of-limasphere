@@ -1,7 +1,8 @@
-# the-eye-of-limasphere
+## the-eye-of-limasphere
 Cnn application for pest and desease identification with a remedy engine intergrated
 
-Image Loading and Preprocessing Script
+### Image Loading and Preprocessing Script
+
 This script loads a dataset of images from a specified directory, resizes them to a fixed size, and splits the data into training, validation, and testing sets. It is intended for use in machine learning projects, specifically for image classification tasks.
 
 Prerequisites
